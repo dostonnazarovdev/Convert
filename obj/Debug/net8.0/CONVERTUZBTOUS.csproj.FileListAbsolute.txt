@@ -1,0 +1,14 @@
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\bin\Debug\net8.0\CONVERTUZBTOUS.exe
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\bin\Debug\net8.0\CONVERTUZBTOUS.deps.json
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\bin\Debug\net8.0\CONVERTUZBTOUS.runtimeconfig.json
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\bin\Debug\net8.0\CONVERTUZBTOUS.dll
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\bin\Debug\net8.0\CONVERTUZBTOUS.pdb
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\CONVERTUZBTOUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\CONVERTUZBTOUS.AssemblyInfoInputs.cache
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\CONVERTUZBTOUS.AssemblyInfo.cs
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\CONVERTUZBTOUS.csproj.CoreCompileInputs.cache
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\CONVERTUZBTOUS.dll
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\refint\CONVERTUZBTOUS.dll
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\CONVERTUZBTOUS.pdb
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\CONVERTUZBTOUS.genruntimeconfig.cache
+E:\.NET\.NET Elbek Lessons\CONVERTUZBTOUS\obj\Debug\net8.0\ref\CONVERTUZBTOUS.dll
